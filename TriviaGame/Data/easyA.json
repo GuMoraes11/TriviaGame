@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Example Animal Question 1",
+    "options": {
+      "A": "Answer 1",
+      "B": "Answer 2",
+      "C": "Answer 3",
+      "D": "Answer 4"
+    },
+    "answer": "A"
+  },
+  {
+    "question": "Example Animal Question 2",
+    "options": {
+      "A": "Answer 1",
+      "B": "Answer 2",
+      "C": "Answer 3",
+      "D": "Answer 4"
+    },
+    "answer": "B"
+  }
+]
